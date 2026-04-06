@@ -4,6 +4,6 @@ I am currently continuing my higher education studies in Business Informatics. I
 
 ## Some Things I Do
 👾 I develop business tools and dashboards with the help of Python and SQL during my free time. <br>
-👾 I analyze web data and implement strategies.
-👾 I apply statistics in my data analysis and strategy implementation. 
+👾 I analyze web data and implement strategies.<br>
+👾 I apply statistics in my data analysis and strategy implementation. <br>
 
